@@ -12,7 +12,7 @@ Collection de scripts Lua conçus pour différents jeux Roblox.
 | `arsenal.lua` | Arsenal |
 | `mm2.lua` | Murder Mystery 2 |
 | `rivals.lua` | Rivals |
-| `c6r6.lua` | ??? |
+| `c6r6.lua` | loader |
 | `flick.lua` | ??? |
 | `sniper-arena.lua` | Sniper Arena |
 | `steal-a-egg.lua` | Steal an Egg |
